@@ -46,7 +46,3 @@ Since automation is a huge part of security engineering, I'll be using:
 ✅ jq (for working with JSON data in security tools)
 ✅ PowerShell (for Windows security automation)
 
-
-## Projects
-- Detection Lab
-- SOC Automation Project
