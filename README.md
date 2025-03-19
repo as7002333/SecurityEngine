@@ -1,28 +1,28 @@
-# # Security Egnineering Projects
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# # 🔐 Security Engineer Projects
 
-[Brief Introduction - Remove this afterwards]
+Welcome to my Security Engineering portfolio! This repository showcases hands-on projects demonstrating my expertise in securing applications, infrastructure, and DevSecOps workflows. Each project is designed to highlight real-world security challenges and solutions, focusing on areas such as:
 
-Highlights: Security Engineer. 10 + years exp.
+✅ GitHub Security Best Practices – Implementing security controls for repositories, including branch protection, secret scanning, and dependency management.
+✅ CI/CD Pipeline Security – Hardening GitHub Actions and integrating security tools to detect vulnerabilities in the software supply chain.
+✅ Cloud & Infrastructure Security – Securing cloud environments (AWS, Azure, GCP) using Infrastructure as Code (IaC) security practices.
+✅ Threat Detection & Response – Building automation to monitor for security threats, enforce least privilege, and respond to incidents.
+✅ Application Security (AppSec) – Identifying and mitigating common vulnerabilities (OWASP Top 10) within web applications and APIs.
 
-## Objective
+Each project includes documentation on its objectives, implementation steps, and security impact. Whether you're an aspiring security engineer, a hiring manager, or just passionate about cybersecurity, feel free to explore, contribute, and discuss!
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+🚀 Let's build a more secure digital world—one commit at a time!
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+# #🛡️ Security Engineer Skills Highlighted in This Repository
 
-| Skill Highlighted                               | Associated Project         |
-|-------------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          
-| Network Traffic Monitoring and Attack Detection 
-| Security Automation with Shuffle SOAR        
-| Incident Response Planning and Execution     
-| Case Management with TheHive                  
-| Scripting and Automation for Threat Mitigation 
-| Bash Scripting 
-| AI Automation  
-
+| **Skill Category**          | **Key Skills** | **Project Focus Areas** |
+|----------------------------|---------------|------------------------|
+| **GitHub Security**        | Repository security, branch protection, secret scanning, Dependabot, code scanning | Secure GitHub workflows, automating security policies |
+| **CI/CD Security**         | GitHub Actions security, least privilege access, artifact signing, supply chain security | Hardening CI/CD pipelines, integrating security tools (SAST, DAST) |
+| **Cloud & Infrastructure Security** | IAM security, Infrastructure as Code (IaC) security, container security, logging & monitoring | Securing AWS/Azure/GCP, Kubernetes security, Terraform best practices |
+| **Application Security (AppSec)** | OWASP Top 10, SAST/DAST, API security, secure coding practices | Identifying & fixing vulnerabilities, threat modeling |
+| **Threat Detection & Response** | SIEM integration, security automation, incident response, alerting | Building detection rules, automating response actions |
+| **Identity & Access Management (IAM)** | Role-based access control (RBAC), least privilege enforcement, MFA, authentication security | Secure access to resources, auditing permissions |
+| **Security Automation & DevSecOps** | Security as Code, policy enforcement, automated compliance checks | Integrating security into DevOps workflows, using tools like Open Policy Agent (OPA) |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
