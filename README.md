@@ -1,4 +1,4 @@
-# 🔐 Security Engineer Projects
+###  🔐 Security Engineer Projects
 
 Welcome to my Security Engineering portfolio! This repository showcases hands-on projects demonstrating my expertise in securing applications, infrastructure, and DevSecOps workflows. Each project is designed to highlight real-world security challenges and solutions, focusing on areas such as:
 
@@ -12,7 +12,7 @@ Each project includes documentation on its objectives, implementation steps, and
 
 🚀 Let's build a more secure digital world—one commit at a time!
 
-#🛡️ Security Engineer Skills Highlighted in This Repository
+### 🛡️ Security Engineer Skills Highlighted in This Repository
 
 | **Skill Category**          | **Key Skills** | **Project Focus Areas** |
 |----------------------------|---------------|------------------------|
@@ -24,7 +24,6 @@ Each project includes documentation on its objectives, implementation steps, and
 | **Identity & Access Management (IAM)** | Role-based access control (RBAC), least privilege enforcement, MFA, authentication security | Secure access to resources, auditing permissions |
 | **Security Automation & DevSecOps** | Security as Code, policy enforcement, automated compliance checks | Integrating security into DevOps workflows, using tools like Open Policy Agent (OPA) |
 
-## Tools
 ### 🛠 Tools & Technologies for Security Engineering Projects  
 
 | **Category**                   | **Tools** | **Purpose** |
